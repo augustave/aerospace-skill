@@ -1,0 +1,2 @@
+claim_id,claim_text,metric,threshold,evidence_ref,test_run_id,artifact_hash
+C-001,Hot-day thermal executed,ambient_temp_c,50,demo/sample_outputs/test_validation_report_v1.md,TR-2026-02-27-001,sha256:bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb

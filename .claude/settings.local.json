@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create vite@latest demo-ui -- --template react-ts)",
+      "Bash(npm install)",
+      "Bash(npm install -D tailwindcss@3 postcss autoprefixer)",
+      "Bash(npm install lucide-react)",
+      "Bash(npx tailwindcss init -p)",
+      "Bash(npm run build)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(curl -s http://localhost:5173/)"
+    ]
+  }
+}
